@@ -4,12 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
-  - Ladder
-  - Teleport
   - OneWayPlatform
-  - Goal
-  - Death
+  - Teleport
   layers:
   - Default
   - TransparentFX
@@ -47,12 +43,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 2688732733
+  - name: Layer1
+    uniqueID: 573268741
     locked: 0
-  - name: Foreground
-    uniqueID: 3957864911
-    locked: 0
-  - name: Player
-    uniqueID: 1236421205
+  - name: Layer2
+    uniqueID: 2084291955
     locked: 0
